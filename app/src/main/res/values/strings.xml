@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PassGen</string>
+    <string name="passgen">PassGen</string>
+    <string name="uppercase_letters_e_g_ABCDEF">Uppercase letters (e.g. ABCDEF...)</string>
+    <string name="lowercase_letters_e_g_abcdef">Lowercase letters (e.g. abcdef...)</string>
+    <string name="numbers_e_g_123456">Numbers (e.g. 123456...)</string>
+    <string name="symbols_e_g_______"><![CDATA[Symbols (e.g. !@#$%&...)]]></string>
+    <string name="length">Length</string>
+    <string name="generate">Generate</string>
+    <string name="copy">Copy</string>
+    <string name="clear">Clear clipboard</string>
+    <string name="slider_initial_value">32</string>
+    <string name="copied_to_clipboard">"Copied password to clipboard</string>
+    <string name="cleared_clipboard">"Cleared clipboard</string>
+    <string name="failed_api_level_below_p">"Failed: API level is below P</string>
+</resources>
