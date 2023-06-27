@@ -1,8 +1,16 @@
-# pass-gen
+# PassGen [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+A simple password generator for Android.
 
 <img src="app.png" width="200" />
 
-A simple password generator for Android.
+## Author
+
+Eduardo Vasconcelos (vasconcedu)
+
+https://vasconcedu.github.io/
+
+## Functionalities 
 
 The following functionalities are available: 
 
