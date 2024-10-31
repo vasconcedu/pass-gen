@@ -4,12 +4,6 @@ A simple password generator for Android.
 
 <img src="app.png" width="200" />
 
-## Author
-
-Eduardo Vasconcelos (vasconcedu)
-
-https://vasconcedu.github.io/
-
 ## Functionalities 
 
 The following functionalities are available: 
