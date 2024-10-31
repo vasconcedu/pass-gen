@@ -1,4 +1,4 @@
-# PassGen [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# PassGen
 
 A simple password generator for Android.
 
